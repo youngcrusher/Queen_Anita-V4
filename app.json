@@ -29,8 +29,8 @@
       "value": "true",
       "required": false
     },
-    "MSGS_IN_LOG": {
-      "description": "Set to true if you want to see messages in logs.",
+    "CHATBOT": {
+      "description": "Set to true if you want your bot to autoreply messages.",
       "value": "false",
       "required": false
     },
